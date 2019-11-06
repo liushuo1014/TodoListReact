@@ -1,0 +1,14 @@
+.option {
+  display: flex;
+  justify-content: space-between;
+  padding: $l-size $m-size;
+  border-bottom: 1px solid lighten($color: $lightblue, $amount: 10%);
+}
+
+.option__text {
+  color: white;
+  font-weight: 500;
+  font-size: 2rem;
+  //wrap the word if it's tooo long
+  word-break: break-all;
+}
