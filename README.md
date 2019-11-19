@@ -1,2 +1,4 @@
 react app to do list.
-Click on what should I do button will also make a decision for you.
+
+This app allows you to add/delete your todos. If you don't know what to do,
+then simply click one button will give you a random action to do.
